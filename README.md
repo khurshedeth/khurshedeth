@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khurshedeth
 - 👀 I’m interested in HTML, React, Next JS,  and Blockchain
-- 🌱 I’m currently learning react js
+- 🌱  learning react js
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me khurshed.eth@gmail.com
 
