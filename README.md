@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khurshedeth
-- 👀 I’m interested in HTML, React, Next JS,  and Blockchain
-- 🌱  learning react js
-- 💞️ I’m looking to collaborate on any project
+- 👀 I’m interested in HTML, React, Next JS, Next Js Tailwind Css Yup Formi
+- 🌱  Frontend Developer
+- 💞 Open to work 
 - 📫 How to reach me khurshed.eth@gmail.com
 
 <!---
