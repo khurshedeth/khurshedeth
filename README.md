@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @khurshedeth
 - 👀 I’m interested in HTML, React, Next JS, Next Js Tailwind CSS Yup FormiK
 - 🌱  Frontend Developer
+-      React Js developer
 - 💞 Open to work 
 - 📫 How to reach me khurshed.eth@gmail.com
 
