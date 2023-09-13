@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khurshedeth
-- 👀 I’m interested in HTML, React, Next JS, Next Js Tailwind CSS Yup FormiK
+- 👀 I’m interested in HTML, React, Next JS,  Tailwind CSS Yup FormiK
 - 🌱  Frontend Developer
 -      React Js developer
 - 💞 Open to work 
